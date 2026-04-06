@@ -56,11 +56,11 @@ pinout:
 
   # Analog pins - make sure to also set "analog_pins" above, else the pins won't be connected
   ua[0]: "ref"
-  ua[1]: ""
-  ua[2]: ""
-  ua[3]: ""
-  ua[4]: ""
-  ua[5]: ""
+  ua[1]: "ref"
+  ua[2]: "ref"
+  ua[3]: "ref"
+  ua[4]: "ref"
+  ua[5]: "ref"
 
 # Do not change!
 yaml_version: 6
